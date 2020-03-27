@@ -9,4 +9,4 @@ This code assumes knowledge of the R Language. Place the two files in the same d
 
 ## Copyright and License
 
-Los Alamos National Security, LLC owns the copyright for this code, identified internally as LA-CC-17-014. Please see LICENSE for copyright details.
+Triad National Security, LLC owns the copyright for this code, identified internally as LA-CC-17-014. Please see LICENSE for copyright details.
